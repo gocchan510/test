@@ -1,0 +1,8 @@
+# Generated audio (regenerate with scripts/generate_audio.py + build_playlist.py)
+audio/words/*.mp3
+audio/_normalized/
+audio/_silence/
+audio/playlists/*.mp3
+
+__pycache__/
+*.pyc
